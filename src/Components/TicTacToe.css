@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.table_data {
+  border: 2px solid red;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
